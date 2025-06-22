@@ -32,4 +32,4 @@ jobs:
       run: dotnet build "Games\Minesweeper\Minesweeper.csproj" --no-restore
       
     - name: Test
-      run: dotnet test "Tests\Minesweeper.Tests\Minesweeper.Tests.csproj" --no-build --verbosity normal
+      run: dotnet test "Tests\Minesweeper\Minesweeper.Tests.csproj" --no-build --verbosity normal
