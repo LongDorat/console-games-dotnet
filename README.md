@@ -19,7 +19,7 @@ This project aims to bring back classic games as console-based applications usin
 
 | Game | Description | Difficulty | Status |
 |------|-------------|------------|--------|
-| Minesweeper | Classic mine-clearing puzzle game where players must uncover cells while avoiding hidden mines | Easy | Working |
+| Minesweeper | Classic mine-clearing puzzle game where players must uncover cells while avoiding hidden mines | Easy | Done |
 | Snake | Navigate a growing snake to collect food without hitting walls or itself | N/A | Coming Soon |
 | Tetris | Arrange falling blocks to create complete lines | N/A | Coming Soon |
 
